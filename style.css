@@ -1,0 +1,124 @@
+.title{
+   background-image: url("banner1.jpg");
+   height: 90px;
+   width: 1000px;
+   border-radius: 20px;
+   margin-left: 100px;
+
+}
+
+body {
+    background-color: white;
+    border: 2rem;
+border-color: #427fef;
+}
+.main{
+    background-color: rgb(154, 163, 163);
+height: 700px;
+width: 1000px;;
+margin-top: 10px;
+padding: 20px;
+padding-bottom: 30px;
+border-radius: 20px;
+margin-left: 100px;
+background-image: url("back.jpg");
+}
+
+.link{
+    
+    display: inline-block;
+	font-size: 16px;
+	padding: 10px 28px 10px;
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: 900;
+	background: #427fef;
+	letter-spacing: 2px;
+    font-style: bold;
+    inline-size: none;
+
+}
+.box{
+    width: 300px;
+    height: 300px; 
+    border: 20rem;
+  
+    margin-top: 3rem;
+    border-radius: 13px;
+    box-shadow: #427fef 10px 10px;
+    }
+    .picbox{
+        margin-left: 50px;
+        box-shadow: #427fef;
+        border-radius: 20px;
+    }
+    .headings{
+        text-align: center;
+        font-size: 15pt;
+        color: rgb(76, 73, 73);
+        font-style: italic;
+    
+    }
+.t1{
+    width: 350px;
+    height: 300px;
+    text-decoration: aliceblue;
+    border-color:  #c4dcf3;
+    align-items: center;
+    border: none;
+
+}
+.th1{
+        background-color: #427fef;
+        font-style: bold;
+        border-collapse: collapse;
+    }
+    .th2{
+        background-color:  #eef7ff;
+        font-style: bold;
+        border-collapse: collapse;
+}
+.footer{
+    background-color: #427fef;
+    font-style: normal;
+    border-radius: 2rem;
+    text-align: center;
+    margin-top: 700px;
+}
+.th3{
+    background-color:  white;
+    font-style: bold;
+}
+.boxshadow{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+  padding: 10px;
+  box-shadow: 15px 15px lightgrey;
+  background-color: tomato;
+   margin-left: 40rem;
+   margin-top: -18rem;
+
+}
+
+.link2{
+    font-size: 20px;
+    background-color: rgb(190, 185, 185);
+    border-radius: 20px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form1{
+    border-radius: 20px;
+    background-color: rgb(221, 158, 22);
+    align-items: center;
+
+}
+.form{
+    align-items: center;
+    border-radius: 20px;
+    border-color: green;
+    margin-left: 300px;
+
+}
